@@ -1,0 +1,19 @@
+#layer {
+  position: relative;
+}
+
+.img_1 {
+  width: 400px;
+  position: absolute;
+  z-index: 2;
+}
+
+.img_2 {
+  width: 400px;
+  position: absolute;
+  z-index: 1;
+}
+
+#Black_footed_Cat_1:active {
+  display: none;
+}
