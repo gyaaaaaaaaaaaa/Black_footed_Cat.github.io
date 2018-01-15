@@ -3,13 +3,13 @@
 }
 
 .img_1 {
-  width: 400px;
+  width: 100%;
   position: absolute;
   z-index: 2;
 }
 
 .img_2 {
-  width: 400px;
+  width: 100%;
   position: absolute;
   z-index: 1;
 }
